@@ -16,4 +16,5 @@ main() {
   for (var registro in notas.entries) {
     print("O ${registro.key} tem nota ${registro.value}");
   }
+  print('Fim!');
 }
