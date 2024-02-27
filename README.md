@@ -30,6 +30,8 @@ Neste repositório estão alguns fundamentos da linguagem de programação Dart.
   - [for_1.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Controle/for_1.dart)
   - [for_2.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Controle/for_2.dart)
   - [for_3.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Controle/for_3.dart)
+  - [while.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Controle/while.dart)
+  - [switch.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Controle/switch.dart)
 
 
 ### Técnicas e Tecnologias utilizadas
