@@ -22,7 +22,7 @@ Neste repositório estão alguns fundamentos da linguagem de programação Dart.
   - [tipos_basicos.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/tipos_basicos_1.dart)
   - [tipos_basicos.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/tipos_basicos_2.dart)
   - [variaveis_1.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/variaveis_1.dart)
-  - [variaveis_2.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/variaveis_1.dart)
+  - [variaveis_2.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/variaveis_2.dart)
 
 - Controle
   - [ifelse.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Controle/ifelse.dart)
