@@ -36,7 +36,8 @@ Neste repositório estão alguns fundamentos da linguagem de programação Dart.
   - [desafio_for.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Controle/desafio_for.dart)
 
 - Funcao
-  - [funcao_1.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Funcao/funcao_1.dart)
+  - [basico_funcao.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Funcao/basico_funcao.dart)
+  - [dinamico.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Funcao/dinamico.dart)
 
 
 ### Técnicas e Tecnologias utilizadas
