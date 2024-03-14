@@ -45,6 +45,7 @@ Neste repositório estão alguns fundamentos da linguagem de programação Dart.
   - [funcao_como_parametro_1.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Funcao/funcao_como_parametro_1.dart)
   - [funcao_como_parametro_2.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Funcao/funcao_como_parametro_2.dart)
   - [retornar_funcao.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Funcao/retornar_funcao.dart)
+  - [funcao_com_generics.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Funcao/funcao_com_generics.dart)
 
 ### Técnicas e Tecnologias utilizadas
 
