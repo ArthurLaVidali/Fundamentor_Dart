@@ -49,6 +49,9 @@ Neste repositório estão alguns fundamentos da linguagem de programação Dart.
   - [filtro_1.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Funcao/filtro_1.dart)
   - [filtro_2.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Funcao/filtro_2.dart)
   - [filter_3.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Funcao/filter_3.dart)
+  - [map_reduce_1.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Funcao/map_reduce_1.dart)
+  - [map_reduce_2.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Funcao/map_reduce_2.dart)
+  - [map_reduce_3.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Funcao/map_reduce_3.dart)
 
 ### Técnicas e Tecnologias utilizadas
 
