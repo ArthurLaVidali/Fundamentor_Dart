@@ -1,4 +1,4 @@
-// => Classes são objetos que tem determinadas caracteriscas
+// => Classes são objetos que tem determinadas atributos
 // No caso do objeto Data, existe dia, mes e ano.
 class Data {
   int dia = 0;
@@ -8,7 +8,7 @@ class Data {
 
 main() {
   // => Neste caso criamos um objeto chamado Data Aniversário
-  // E atribuimos os valores para cada caracteristica
+  // E atribuimos os valores para cada atributo
   var dataAniversario = new Data();
   dataAniversario.dia = 27;
   dataAniversario.mes = 07;
