@@ -53,6 +53,9 @@ Neste repositório estão alguns fundamentos da linguagem de programação Dart.
   - [map_reduce_2.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Funcao/map_reduce_2.dart)
   - [map_reduce_3.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Funcao/map_reduce_3.dart)
 
+- Orientação a Objetos
+  - [map_reduce_3.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/classe_data.dart)
+
 ### Técnicas e Tecnologias utilizadas
 
 - ``Dart 3.2.3``
