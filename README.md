@@ -68,9 +68,9 @@ Neste repositório estão alguns fundamentos da linguagem de programação Dart.
   - - Desafio-Classe-Carro
   - - [Desafio](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/Desafio-Classe-Carro/Desafio)
   - - - modelo
-  - - - - [carro.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/Desafio-Classe-Carro/modelo/carro.dart)
+  - - - [carro.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/Desafio-Classe-Carro/modelo/carro.dart)
   - - - teste
-  - - - - [teste_carro.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/Desafio-Classe-Carro/teste/teste_carro.dart)
+  - - - [teste_carro.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/Desafio-Classe-Carro/teste/teste_carro.dart)
 
 ### Técnicas e Tecnologias utilizadas
 
