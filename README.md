@@ -71,6 +71,14 @@ Neste repositório estão alguns fundamentos da linguagem de programação Dart.
   - - - [carro.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/Desafio-Classe-Carro/modelo/carro.dart)
   - - - teste
   - - - [teste_carro.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/Desafio-Classe-Carro/teste/teste_carro.dart)
+  - - Composicao
+  - - - modelo
+  - - - [cliente.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/Composicao/modelo/cliente.dart)
+  - - - [produto.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/Composicao/modelo/produto.dart)
+  - - - [venda_item.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/Composicao/modelo/venda_item.dart)
+  - - - [venda.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/Composicao/modelo/venda.dart)
+  - - - teste
+  - - - [venda_teste.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/Composicao/teste/venda_teste.dart)
 
 ### Técnicas e Tecnologias utilizadas
 
