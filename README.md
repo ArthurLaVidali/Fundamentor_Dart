@@ -58,6 +58,13 @@ Neste repositório estão alguns fundamentos da linguagem de programação Dart.
   - [classe_data_metodos.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/classe_data_metodos.dart)
   - [classe_data_construtores.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/classe_data_construtores.dart)
   - [classe_data_construtores_nomeados.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/classe_data_construtores_nomeados.dart)
+  - - Imports
+  - - [pessoa.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/Imports/pessoa.dart)
+  - - [principal.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/Imports/principal.dart.dart)
+  - - - model
+  - - - - [pessoa.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/Imports/model/pessoa.dart)
+  - - - teste
+  - - - - [principal.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Orientacao-a-Objetos/Imports/model/principal.dart)
 
 ### Técnicas e Tecnologias utilizadas
 
