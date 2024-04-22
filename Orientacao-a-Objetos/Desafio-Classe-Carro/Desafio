@@ -1,0 +1,13 @@
+1) carro.dart ==> Dentro da pasta Modelo
+Classe com construtor recebe a velocidade maxima...
+final int velocidadeMaxima;
+int velocidadeAtual;
+
+int acelerar(){ ... } // ==> Acelerar 5 em 5 (+5)
+int frear(){ ... } // ==> Não pode chegar a menos que 0 (-5)
+bool estaNoLimite() // ==> velocidadeAtual = velocidadeMaxima == True
+
+2) teste_carro.dart // Dentro da pasta Teste
+main
+
+é necessário acelerar de 0 até a velocidade máxima => Mostrar cada uma das velocidades
