@@ -4,25 +4,39 @@ Neste repositório estão alguns fundamentos da linguagem de programação Dart.
 
 > :construction: Repositorio em Construção :construction:
 
+## De onde veio todo conteudo do repositorio?
 
-### Diretório
+Todo o conteudo deste repositório foi através de um curso de flutter que comprei na Udemy
+[Clique aqui para descobrir o curso](https://www.udemy.com/course/curso-flutter/?couponCode=ST6MT42324)<br>
+
+Obs: As sessões de dart deste curso são as ultimas sessões (Sessões 20 a 23 {2024/1} )<br>
+
+No curso aprendi todos os conceitos de lógica de programação em dart, dentre os conceitos:
+  - Fundamentos: Tipos básicos, interpolação, variaveis, constantes. 
+  - Controle: For, If e else, Switch, Breake, While.
+  - Funções: Funções nomeadas, Funções com generics, .Map e .Reduce, Funções em variaveis, formas de filtragem, Funções como parametros
+  - Programação Orientada a Objetos: Classes, como importar classes de outros arquivos, como importar classes de arquivos de outras pastas, Composião
+  - Dentre outros conteudos que foi passado no curso.
+
+
+### Toda a minha linha de aprendizagem 
 
 - Fundamentos<br>
   - [HelloWorld.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/HelloWorld.dart)
-  - [constantes_1.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/constantes_1.dart)
-  - [constantes_2.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/constantes_2.dart)
-  - [generics.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/generics.dart)
-  - [interpolacao.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/interpolacao.dart)
-  - [notacao_ponto.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/notacao_ponto.dart)
-  - [operadores_1.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/operadores_1.dart)
-  - [operadores_2.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/operadores_2.dart)
-  - [operadores_3.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/operadores_3.dart)
-  - [operadores_4.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/operadores_4.dart)
   - [primeiro.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/primeiro.dart)
   - [tipos_basicos.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/tipos_basicos_1.dart)
   - [tipos_basicos.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/tipos_basicos_2.dart)
   - [variaveis_1.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/variaveis_1.dart)
   - [variaveis_2.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/variaveis_2.dart)
+  - [constantes_1.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/constantes_1.dart)
+  - [constantes_2.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/constantes_2.dart)
+  - [operadores_1.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/operadores_1.dart)
+  - [operadores_2.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/operadores_2.dart)
+  - [operadores_3.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/operadores_3.dart)
+  - [operadores_4.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/operadores_4.dart)
+  - [generics.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/generics.dart)
+  - [interpolacao.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/interpolacao.dart)
+  - [notacao_ponto.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/notacao_ponto.dart)
 
 - Controle
   - [ifelse.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Controle/ifelse.dart)
@@ -87,4 +101,5 @@ Neste repositório estão alguns fundamentos da linguagem de programação Dart.
 - ``Fundamentos Dart``
 - ``Curso na Udemy``
 
-> :construction: Repositorio em Construção :construction:
+<br>
+<img src="./img/UdemyImg.png" alt="Logo da Udemy">
