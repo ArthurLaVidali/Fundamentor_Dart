@@ -5,7 +5,7 @@ Neste repositório estão alguns fundamentos da linguagem de programação Dart.
 
 ## De onde veio todo conteudo do repositorio?
 
-Todo o conteudo deste repositório foi através de um curso de flutter que comprei na Udemy
+Todo o conteudo deste repositório foi através de um curso de flutter que comprei na Udemy<br>
 [Clique aqui para descobrir o curso](https://www.udemy.com/course/curso-flutter/?couponCode=ST6MT42324)<br>
 
 Obs: As sessões de dart deste curso são as ultimas sessões (Sessões 20 a 23 {2024/1} )<br>
