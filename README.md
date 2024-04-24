@@ -2,7 +2,6 @@
 
 Neste repositório estão alguns fundamentos da linguagem de programação Dart. 
 
-> :construction: Repositorio em Construção :construction:
 
 ## De onde veio todo conteudo do repositorio?
 
