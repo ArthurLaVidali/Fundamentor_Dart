@@ -20,6 +20,12 @@ No curso aprendi todos os conceitos de lógica de programação em dart, dentre 
 
 ### Toda a minha linha de aprendizagem 
 
+- [X] Fundamentos do Flutter
+- [X] Noções básicas de Flutter (Controle)
+- [X] Funções no Flutter
+- [X] Map e Reduce
+- [X] Dart Orientado a Objetos   <br>
+
 - Fundamentos<br>
   - [HelloWorld.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/HelloWorld.dart)
   - [primeiro.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/primeiro.dart)
@@ -37,7 +43,7 @@ No curso aprendi todos os conceitos de lógica de programação em dart, dentre 
   - [interpolacao.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/interpolacao.dart)
   - [notacao_ponto.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Fundamentos/notacao_ponto.dart)
 
-- Controle
+- Noções Básicas (Controle)
   - [ifelse.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Controle/ifelse.dart)
   - [desafioifElse.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Controle/desafioifElse.dart)
   - [for_1.dart](https://github.com/ArthurRCastilho/Fundamentos_Dart/blob/main/Controle/for_1.dart)
